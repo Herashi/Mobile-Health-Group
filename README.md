@@ -2,7 +2,7 @@
 
 M2Health working group meetings are every other weekly from 12pm to 1:30pm on Tuesdays.
 
-* You can find the specific dates of the meetings in the [M2Health google calendar]([https://calendar.google.com/calendar/embed?src=7nar31c6ni4esif8fn1881kgds%40group.calendar.google.com](https://calendar.google.com/calendar/u/0?cid=Y182NHJ2Z3U4am82djAwc2h2NHBvNWFiNnM5Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)).
+* You can find the specific dates of the meetings in the [M2Health google calendar](https://calendar.google.com/calendar/u/0?cid=Y182NHJ2Z3U4am82djAwc2h2NHBvNWFiNnM5Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
 
 ## Zoom Recordings
