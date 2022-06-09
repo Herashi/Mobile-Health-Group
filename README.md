@@ -5,9 +5,9 @@ M2Health working group meetings are every other weekly from 12pm to 1:30pm on Tu
 * You can find the specific dates of the meetings in the [M2Health google calendar](https://calendar.google.com/calendar/u/0?cid=Y182NHJ2Z3U4am82djAwc2h2NHBvNWFiNnM5Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
 ## Upcoming presentations & topics
-* June 14: Machine learning algorithms for MRTs
-..* [Chernozhukov 2018](https://academic.oup.com/ectj/article/21/1/C1/5056401)
-..*[Lin 2013](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-7/issue-1/Agnostic-notes-on-regression-adjustments-to-experimental-data--Reexamining/10.1214/12-AOAS583.full)
+* June 14: Machine learning algorithms for MRTs  
+..* [Chernozhukov 2018](https://academic.oup.com/ectj/article/21/1/C1/5056401)  
+..*[Lin 2013](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-7/issue-1/Agnostic-notes-on-regression-adjustments-to-experimental-data--Reexamining/10.1214/12-AOAS583.full)  
 
 * June 28: Scalable methods for intensive longitudinal data 
 
