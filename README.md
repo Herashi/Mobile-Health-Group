@@ -7,7 +7,7 @@ M2Health working group meetings are every other weekly from 12pm to 1:30pm on Tu
 ## Upcoming presentations & topics
 
 June 14: Machine learning algorithms for MRTs
-* [Double/debiased machine learning for treatment and structural parameters (Chernozhukov et al, 2018)](https://academic.oup.com/ectj/article/21/1/C1/5056401)
+* [Double/debiased machine learning for treatment and structural parameters (Chernozhukov et al., 2018)](https://academic.oup.com/ectj/article/21/1/C1/5056401)
 * [Agnostic notes on regression adjustments to experimental data: Reexamining Freedman’s critique (Lin, 2013)](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-7/issue-1/Agnostic-notes-on-regression-adjustments-to-experimental-data--Reexamining/10.1214/12-AOAS583.full)  
 
 June 28: Scalable methods for intensive longitudinal data 
