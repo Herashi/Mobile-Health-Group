@@ -24,5 +24,5 @@ May 17: MRTs
 
 May 31: 
 
-## Zoom Recordings
+## Zoom recordings
 All Zoom recordings of meetings from 5/31 onward are available on [Dropbox](https://www.dropbox.com/sh/kd7eq4bv5txtym7/AABQj77msmOgpFyhKUrgjS0Ta?dl=0).
