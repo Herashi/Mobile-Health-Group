@@ -6,9 +6,9 @@ You can find the specific dates of the meetings in the [M2Health google calendar
 
 ## Upcoming presentations & topics
 
-June 28: Scalable methods for intensive longitudinal data 
+July 12: Scalable methods for intensive longitudinal data 
 
-July 12: Markov decision processes and V learning
+July 26: Markov decision processes and V learning
 
 Date TBD: Functional data analysis
 
