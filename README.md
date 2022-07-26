@@ -37,7 +37,11 @@ June 14:
 
 * Moderator adjustment in MRT analyses (Hera Shi)
 
-July 26th:
+July 12:
+
+* A continuous time dynamic factor model for mobile health data (Longfei Zhang and Madeline Abbot)
+
+July 26:
 
 * Reinforcement Learning, MDP, and their application to Mobile Health (Chaoyu Ding and Jieru Shi)
   * [Estimating Dynamic Treatment Regimes in Mobile Health Using V-learning (Luckett et al., 2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7500510/)
