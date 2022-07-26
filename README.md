@@ -40,7 +40,7 @@ June 14:
 July 26th:
 
 * Reinforcement Learning, MDP, and their application to Mobile Health (Chaoyu Ding and Jieru Shi)
-  * [Estimating Dynamic Treatment Regimes in Mobile Health Using V-learning (Luckett et al., 2019)] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7500510/)
+  * [Estimating Dynamic Treatment Regimes in Mobile Health Using V-learning (Luckett et al., 2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7500510/)
 
 ## Zoom recordings
 All Zoom recordings of meetings from 5/31 onward are available on [Dropbox](https://www.dropbox.com/sh/kd7eq4bv5txtym7/AABQj77msmOgpFyhKUrgjS0Ta?dl=0).
