@@ -6,11 +6,7 @@ You can find the specific dates of the meetings in the [M2Health google calendar
 
 ## Upcoming presentations & topics
 
-July 12: Scalable methods for intensive longitudinal data 
-
-July 26: Markov decision processes and V learning
-
-Date TBD: Functional data analysis
+August 23: Functional data analysis (Yidan Zhang and Margaret Banker)
 
 Date TBD: SMARTs
 
@@ -39,7 +35,7 @@ June 14:
 
 July 12:
 
-* A continuous time dynamic factor model for mobile health data (Longfei Zhang and Madeline Abbot)
+* A continuous time dynamic factor model for mobile health data (Longfei Zhang and Madeline Abbott)
 
 July 26:
 
