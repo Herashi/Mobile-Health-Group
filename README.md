@@ -1,6 +1,6 @@
 ## Lab meetings
 
-M2Health working group meetings are every other weekly from 12pm to 1:30pm on Tuesdays.
+M2Health working group meetings are every other week from 12:30-2pm on Fridays starting 9/23.
 
 You can find the specific dates of the meetings in the [M2Health google calendar](https://calendar.google.com/calendar/u/0?cid=Y182NHJ2Z3U4am82djAwc2h2NHBvNWFiNnM5Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t).
 
@@ -41,6 +41,11 @@ July 26:
 
 * Reinforcement Learning, MDP, and their application to Mobile Health (Chaoyu Ding and Jieru Shi)
   * [Estimating Dynamic Treatment Regimes in Mobile Health Using V-learning (Luckett et al., 2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7500510/)
+
+September 7th:
+
+* Functional data analysis (Yidan Zhang and Tianwen Ma)
+  * [A two-stage model for wearable device data (Bai et al., 2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5893449/)
 
 ## Zoom recordings
 All Zoom recordings of meetings from 5/31 onward are available on [Dropbox](https://www.dropbox.com/sh/kd7eq4bv5txtym7/AABQj77msmOgpFyhKUrgjS0Ta?dl=0).
