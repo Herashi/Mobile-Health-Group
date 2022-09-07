@@ -6,11 +6,6 @@ You can find the specific dates of the meetings in the [M2Health google calendar
 
 ## Upcoming presentations & topics
 
-September 7th:
-
-* Functional data analysis (Yidan Zhang and Tianwen Ma)
-  * [A two-stage model for wearable device data (Bai et al., 2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5893449/)
-
 September 23rd: 
 
 * (Margaret Banker)
@@ -48,6 +43,11 @@ July 26:
 
 * Reinforcement Learning, MDP, and their application to Mobile Health (Chaoyu Ding and Jieru Shi)
   * [Estimating Dynamic Treatment Regimes in Mobile Health Using V-learning (Luckett et al., 2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7500510/)
+
+September 7th:
+
+* Functional data analysis (Yidan Zhang and Tianwen Ma)
+  * [A two-stage model for wearable device data (Bai et al., 2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5893449/)
 
 
 ## Zoom recordings
