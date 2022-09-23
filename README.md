@@ -6,11 +6,7 @@ You can find the specific dates of the meetings in the [M2Health google calendar
 
 ## Upcoming presentations & topics
 
-September 23rd: 
 
-* (Margaret Banker)
-
-Date TBD: SMARTs
 
 ## Past presentations & topics
 
@@ -49,6 +45,10 @@ September 7th:
 * Functional data analysis (Yidan Zhang and Tianwen Ma)
   * [A two-stage model for wearable device data (Bai et al., 2017)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5893449/)
 
+September 23rd: 
+
+* Functional Data Analysis Methods for Analyzing Accelerometry Data in Mobile Health (Margaret Banker)
+* [Recording Link](https://umich.zoom.us/rec/share/NKEx01euaUpHM5ympljZ84bQb0RBSViOBrJp0ZC1mrC7Sr4C50NgkY5qKb7m0RYk.cAOEnna87d3WcJOe?startTime=1663953680000)
 
 ## Zoom recordings
 All Zoom recordings of meetings from 5/31 onward are available on [Dropbox](https://www.dropbox.com/sh/kd7eq4bv5txtym7/AABQj77msmOgpFyhKUrgjS0Ta?dl=0).
