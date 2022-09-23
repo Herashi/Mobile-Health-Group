@@ -51,4 +51,4 @@ September 23rd:
 * [Recording Link](https://umich.zoom.us/rec/share/NKEx01euaUpHM5ympljZ84bQb0RBSViOBrJp0ZC1mrC7Sr4C50NgkY5qKb7m0RYk.cAOEnna87d3WcJOe?startTime=1663953680000)
 
 ## Zoom recordings
-All Zoom recordings of meetings from 5/31 onward are available on [Dropbox](https://www.dropbox.com/sh/kd7eq4bv5txtym7/AABQj77msmOgpFyhKUrgjS0Ta?dl=0).
+All Zoom recordings of meetings from 5/31 onward are available on [Dropbox](https://www.dropbox.com/sh/yyoig0mxm4vfo90/AACoP_tBrN4BF8sMuaX1L91Ua?dl=0).
