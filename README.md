@@ -71,7 +71,7 @@ September 7th:
 September 23rd: 
 
 * Functional Data Analysis Methods for Analyzing Accelerometry Data in Mobile Health (Margaret Banker)
-* [Recording Link](https://umich.zoom.us/rec/share/NKEx01euaUpHM5ympljZ84bQb0RBSViOBrJp0ZC1mrC7Sr4C50NgkY5qKb7m0RYk.cAOEnna87d3WcJOe?startTime=1663953680000)
+ * [Recording Link](https://umich.zoom.us/rec/share/NKEx01euaUpHM5ympljZ84bQb0RBSViOBrJp0ZC1mrC7Sr4C50NgkY5qKb7m0RYk.cAOEnna87d3WcJOe?startTime=1663953680000)
 
 ## Zoom recordings
 All Zoom recordings of meetings from 5/31 onward are available on [Dropbox](https://www.dropbox.com/sh/yyoig0mxm4vfo90/AACoP_tBrN4BF8sMuaX1L91Ua?dl=0).
