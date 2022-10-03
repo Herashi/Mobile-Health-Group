@@ -6,7 +6,30 @@ You can find the specific dates of the meetings in the [M2Health google calendar
 
 ## Upcoming presentations & topics
 
+October 7:
 
+* Kernel Multimodal Continuous Attention (Alex Moreno)
+  * [Sparse and Continuous Attention Mechanisms (Martins et al., 2020)](https://arxiv.org/abs/2006.07214)
+
+October 21:
+
+* SMARTS and MRTS (Jialu (Carrie) Zhou & Hanna Venera)
+
+November 4th:
+
+* Decision Making (Kelly Zhang)
+
+November 18:
+
+* Causal Forests (Luke Francisco & Easton Hutch)
+
+December 2:
+
+* Reinforcement Learning (Chaoyu Ding & Hsin-Yu Lai)
+
+December 16:
+
+* Debiased Machine Learning (Mengqi Xu & Hera Shi)
 
 ## Past presentations & topics
 
