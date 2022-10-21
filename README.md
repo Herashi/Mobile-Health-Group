@@ -9,6 +9,12 @@ You can find the specific dates of the meetings in the [M2Health google calendar
 October 28:
 
 * SMARTS and MRTS (Jialu (Carrie) Zhou & Hanna Venera)
+    * [An experimental design for the development of adaptive
+treatment strategies (Murphy 2005)](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/39201/2022_ftp.pdf?sequence%3D1)
+    * [SMART Longitudinal Analysis: A Tutorial for Using Repeated
+Outcome Measures from SMART Studies to Compare Adaptive
+Interventions (Nahum-Shani et al., 2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7480232/pdf/nihms-1057445.pdf)
+    * [Estimating Time-Varying Causal Excursion Effect in Mobile Health with Binary Outcomes (Qian et al., 2020)](https://escholarship.org/content/qt0083q4h6/qt0083q4h6_noSplash_3669269e42fc13ec3d3d0cecfe7ceb7c.pdf)
 
 November 4th:
 
