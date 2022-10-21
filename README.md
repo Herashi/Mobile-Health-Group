@@ -9,8 +9,8 @@ You can find the specific dates of the meetings in the [M2Health google calendar
 October 28:
 
 * SMARTS and MRTS (Jialu (Carrie) Zhou & Hanna Venera)
-    * [An experimental design for the development of adaptive
-treatment strategies (Murphy 2005)](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/39201/2022_ftp.pdf?sequence%3D1)
+    * SMARTs:
+         * [An experimental design for the development of adaptive treatment strategies (Murphy 2005)(https://deepblue.lib.umich.edu/bitstream/handle/2027.42/39201/2022_ftp.pdf?sequence%3D1)
     * [SMART Longitudinal Analysis: A Tutorial for Using Repeated
 Outcome Measures from SMART Studies to Compare Adaptive
 Interventions (Nahum-Shani et al., 2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7480232/pdf/nihms-1057445.pdf)
