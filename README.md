@@ -6,15 +6,6 @@ You can find the specific dates of the meetings in the [M2Health google calendar
 
 ## Upcoming presentations & topics
 
-October 28:
-
-* SMARTS and MRTS (Jialu (Carrie) Zhou & Hanna Venera)
-    * [An experimental design for the development of adaptive treatment strategies (Murphy 2005)](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/39201/2022_ftp.pdf?sequence%3D1)
-    * [SMART Longitudinal Analysis: A Tutorial for Using Repeated
-Outcome Measures from SMART Studies to Compare Adaptive
-Interventions (Nahum-Shani et al., 2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7480232/pdf/nihms-1057445.pdf)
-    * [Estimating Time-Varying Causal Excursion Effect in Mobile Health with Binary Outcomes (Qian et al., 2020)](https://escholarship.org/content/qt0083q4h6/qt0083q4h6_noSplash_3669269e42fc13ec3d3d0cecfe7ceb7c.pdf)
-
 November 4th:
 
 * Decision Making (Kelly Zhang)
@@ -77,6 +68,15 @@ September 23rd:
 
 * Kernel Multimodal Continuous Attention (Alex Moreno)
   * [Sparse and Continuous Attention Mechanisms (Martins et al., 2020)](https://arxiv.org/abs/2006.07214)
+
+October 28:
+
+* SMARTS and MRTS (Jialu (Carrie) Zhou & Hanna Venera)
+    * [An experimental design for the development of adaptive treatment strategies (Murphy 2005)](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/39201/2022_ftp.pdf?sequence%3D1)
+    * [SMART Longitudinal Analysis: A Tutorial for Using Repeated
+Outcome Measures from SMART Studies to Compare Adaptive
+Interventions (Nahum-Shani et al., 2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7480232/pdf/nihms-1057445.pdf)
+    * [Estimating Time-Varying Causal Excursion Effect in Mobile Health with Binary Outcomes (Qian et al., 2020)](https://escholarship.org/content/qt0083q4h6/qt0083q4h6_noSplash_3669269e42fc13ec3d3d0cecfe7ceb7c.pdf)
 
 ## Zoom recordings
 All Zoom recordings of meetings from 5/31 onward are available on [Dropbox](https://www.dropbox.com/sh/yyoig0mxm4vfo90/AACoP_tBrN4BF8sMuaX1L91Ua?dl=0).
