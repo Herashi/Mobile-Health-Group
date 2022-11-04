@@ -6,10 +6,6 @@ You can find the specific dates of the meetings in the [M2Health google calendar
 
 ## Upcoming presentations & topics
 
-November 4th:
-
-* Decision Making (Kelly Zhang)
-
 November 18:
 
 * Causal Forests (Luke Francisco & Easton Hutch)
@@ -77,6 +73,10 @@ October 28:
 Outcome Measures from SMART Studies to Compare Adaptive
 Interventions (Nahum-Shani et al., 2020)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7480232/pdf/nihms-1057445.pdf)
     * [Estimating Time-Varying Causal Excursion Effect in Mobile Health with Binary Outcomes (Qian et al., 2020)](https://escholarship.org/content/qt0083q4h6/qt0083q4h6_noSplash_3669269e42fc13ec3d3d0cecfe7ceb7c.pdf)
+    
+November 4th:
+
+* Oralytics Decision Making: Statistical Inference for Algorithm (Kelly Zhang)
 
 ## Zoom recordings
 All Zoom recordings of meetings from 5/31 onward are available on [Dropbox](https://www.dropbox.com/sh/yyoig0mxm4vfo90/AACoP_tBrN4BF8sMuaX1L91Ua?dl=0).
