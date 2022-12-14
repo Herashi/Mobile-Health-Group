@@ -9,9 +9,9 @@ You can find the specific dates of the meetings in the [M2Health google calendar
 December 16:
 
 * Policy-learning in Offline Reinforcement Learning (Chaoyu Ding & Hsin-Yu Lai)
-    *[Estimating Dynamic Treatment Regimes in Mobile Health Using
+    * [Estimating Dynamic Treatment Regimes in Mobile Health Using
 V-learning (Luckett et al., 2017)](https://arxiv.org/pdf/1611.03531.pdf)
-    *[Provable Benefits of Actor-Critic Methods
+    * [Provable Benefits of Actor-Critic Methods
 for Offline Reinforcement Learning (Zanette et al., 2021)](https://arxiv.org/pdf/2108.08812.pdf)
 
 January 13, 2023:
