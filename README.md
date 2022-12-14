@@ -6,15 +6,15 @@ You can find the specific dates of the meetings in the [M2Health google calendar
 
 ## Upcoming presentations & topics
 
-November 18:
-
-* Causal Forests (Luke Francisco & Easton Hutch)
-
-December 2:
-
-* Reinforcement Learning (Chaoyu Ding & Hsin-Yu Lai)
-
 December 16:
+
+* Policy-learning in Offline Reinforcement Learning (Chaoyu Ding & Hsin-Yu Lai)
+    *[Estimating Dynamic Treatment Regimes in Mobile Health Using
+V-learning (Luckett et al., 2017)](https://arxiv.org/pdf/1611.03531.pdf)
+    *[Provable Benefits of Actor-Critic Methods
+for Offline Reinforcement Learning (Zanette et al., 2021)](https://arxiv.org/pdf/2108.08812.pdf)
+
+January 13, 2023:
 
 * Debiased Machine Learning (Mengqi Xu & Hera Shi)
 
@@ -77,6 +77,11 @@ Interventions (Nahum-Shani et al., 2020)](https://www.ncbi.nlm.nih.gov/pmc/artic
 November 4th:
 
 * Oralytics Decision Making: Statistical Inference for Algorithm (Kelly Zhang)
+
+November 18:
+
+* Causal Forests (Luke Francisco & Easton Hutch)
+    * [Estimation and Inference of Heterogeneous Treatment Effects using Random Forests (Wager & Athey, 2018)](https://www.tandfonline.com/doi/full/10.1080/01621459.2017.1319839)
 
 ## Zoom recordings
 All Zoom recordings of meetings from 5/31 onward are available on [Dropbox](https://www.dropbox.com/sh/yyoig0mxm4vfo90/AACoP_tBrN4BF8sMuaX1L91Ua?dl=0).
