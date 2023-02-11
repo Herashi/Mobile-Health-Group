@@ -6,10 +6,6 @@ You can find the specific dates of the meetings in the [M2Health google calendar
 
 ## Upcoming presentations & topics
 
-February 10, 2023:
-
-* Debiased Machine Learning (Mengqi Xu & Hera Shi)
-
 February 24, 2022:
 
 * (Jonathan Mei)
@@ -91,6 +87,10 @@ for Offline Reinforcement Learning (Zanette et al., 2021)](https://arxiv.org/pdf
 January 13, 2023:
 
 * Optimizing engagement in an mHealth intervention (to reduce sodium intake) (Madeline Abbott)
+
+February 10, 2023:
+
+* A meta-learning method for estimation of causal excursion effects to assess time-varying moderation (Mengqi Xu & Hera Shi)
 
 ## Zoom recordings
 All Zoom recordings of meetings from 5/31 onward are available on [Dropbox](https://www.dropbox.com/sh/yyoig0mxm4vfo90/AACoP_tBrN4BF8sMuaX1L91Ua?dl=0).
