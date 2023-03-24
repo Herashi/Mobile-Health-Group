@@ -6,9 +6,19 @@ You can find the specific dates of the meetings in the [M2Health google calendar
 
 ## Upcoming presentations & topics
 
-February 24, 2022:
+March 24, 2023
 
-* (Jonathan Mei)
+* (Easton Hutch)
+  * [Statistical Testing under Distributional Shifts (Thams et al., 2021) (https://arxiv.org/abs/2105.10821)]
+  
+April 7, 2023
+
+* (Xiang Meng & Chaoyu Ding)
+  * [A Novel Evaluation of a Just-in-Time Adaptive Intervention Algorithm]
+
+April 21, 2023:
+
+* (Jonathan Mei & Jialu Zhou)
    * [Shampoo: Preconditioned Stochastic Tensor Optimization (Gupta et al., 2018)](https://arxiv.org/pdf/1802.09568.pdf)
 
 ## Past presentations & topics
