@@ -6,15 +6,6 @@ You can find the specific dates of the meetings in the [M2Health google calendar
 
 ## Upcoming presentations & topics
 
-March 24, 2023
-
-* Easton Hutch
-  * [Statistical Testing under Distributional Shifts (Thams et al., 2021)](https://arxiv.org/abs/2105.10821)
-  
-April 7, 2023
-
-* A Novel Evaluation of a Just-in-Time Adaptive Intervention Algorithm (Xiang Meng & Chaoyu Ding)
-
 April 21, 2023:
 
 * Jonathan Mei & Jialu Zhou
@@ -100,6 +91,15 @@ January 13, 2023:
 February 10, 2023:
 
 * A meta-learning method for estimation of causal excursion effects to assess time-varying moderation (Mengqi Xu & Hera Shi)
+
+March 24, 2023
+
+* Easton Hutch
+  * [Statistical Testing under Distributional Shifts (Thams et al., 2021)](https://arxiv.org/abs/2105.10821)
+  
+April 7, 2023
+
+* A Novel Evaluation of a Just-in-Time Adaptive Intervention Algorithm (Xiang Meng & Chaoyu Ding)
 
 ## Zoom recordings
 All Zoom recordings of meetings from 5/31 onward are available on [Dropbox](https://www.dropbox.com/sh/yyoig0mxm4vfo90/AACoP_tBrN4BF8sMuaX1L91Ua?dl=0).
